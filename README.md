@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Pranesh! 👋
 
-<!--
-**iampranesh16/iampranesh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science Engineering student currently building full-stack applications and exploring systems programming. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Languages:** C, C++, Python, JavaScript/TypeScript
+* **Web Dev:** Next.js, React, Tailwind CSS
+* **Backend & AI:** Node.js, Supabase, Google Gemini SDK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+* Building AI-integrated web applications using Next.js and Vercel.
+* Exploring computer vision and trajectory smoothing for hardware tracking.
+
+### 📫 Let's Connect
+* **Email:** iampranesh16@gmail.com
